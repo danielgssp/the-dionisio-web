@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1,h2,h3,h4,h5{
+  font-family: 'Roboto';
+  font-weight: 300;
+}
+
+.margin-left-250{
+  margin-left: 250px;
+}
